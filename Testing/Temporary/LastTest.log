@@ -1,0 +1,563 @@
+Start testing: Oct 06 00:21 PDT
+----------------------------------------------------------
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+1/35 Testing: DatabaseReadback.EmptyDatabase
+1/35 Test: DatabaseReadback.EmptyDatabase
+Command: "" "--gtest_filter=DatabaseReadback.EmptyDatabase"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.EmptyDatabase" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.EmptyDatabase" end time: Oct 06 00:21 PDT
+"DatabaseReadback.EmptyDatabase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+2/35 Testing: DatabaseReadback.Book
+2/35 Test: DatabaseReadback.Book
+Command: "" "--gtest_filter=DatabaseReadback.Book"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.Book" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.Book" end time: Oct 06 00:21 PDT
+"DatabaseReadback.Book" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+3/35 Testing: DatabaseReadback.Clothing
+3/35 Test: DatabaseReadback.Clothing
+Command: "" "--gtest_filter=DatabaseReadback.Clothing"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.Clothing" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.Clothing" end time: Oct 06 00:21 PDT
+"DatabaseReadback.Clothing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+4/35 Testing: DatabaseReadback.Movie
+4/35 Test: DatabaseReadback.Movie
+Command: "" "--gtest_filter=DatabaseReadback.Movie"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.Movie" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.Movie" end time: Oct 06 00:21 PDT
+"DatabaseReadback.Movie" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+5/35 Testing: DatabaseReadback.User
+5/35 Test: DatabaseReadback.User
+Command: "" "--gtest_filter=DatabaseReadback.User"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.User" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.User" end time: Oct 06 00:21 PDT
+"DatabaseReadback.User" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+6/35 Testing: DatabaseReadback.Mixed
+6/35 Test: DatabaseReadback.Mixed
+Command: "" "--gtest_filter=DatabaseReadback.Mixed"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.Mixed" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.Mixed" end time: Oct 06 00:21 PDT
+"DatabaseReadback.Mixed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+7/35 Testing: ConsoleInterface.Quit
+7/35 Test: ConsoleInterface.Quit
+Command: "" "--gtest_filter=ConsoleInterface.Quit"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.Quit" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.Quit" end time: Oct 06 00:21 PDT
+"ConsoleInterface.Quit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+8/35 Testing: ConsoleInterface.HitBook
+8/35 Test: ConsoleInterface.HitBook
+Command: "" "--gtest_filter=ConsoleInterface.HitBook"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.HitBook" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.HitBook" end time: Oct 06 00:21 PDT
+"ConsoleInterface.HitBook" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+9/35 Testing: ConsoleInterface.HitClothing
+9/35 Test: ConsoleInterface.HitClothing
+Command: "" "--gtest_filter=ConsoleInterface.HitClothing"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.HitClothing" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.HitClothing" end time: Oct 06 00:21 PDT
+"ConsoleInterface.HitClothing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+10/35 Testing: ConsoleInterface.HitMovie
+10/35 Test: ConsoleInterface.HitMovie
+Command: "" "--gtest_filter=ConsoleInterface.HitMovie"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.HitMovie" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.HitMovie" end time: Oct 06 00:21 PDT
+"ConsoleInterface.HitMovie" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+11/35 Testing: ConsoleInterface.CaseInsensitive
+11/35 Test: ConsoleInterface.CaseInsensitive
+Command: "" "--gtest_filter=ConsoleInterface.CaseInsensitive"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.CaseInsensitive" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.CaseInsensitive" end time: Oct 06 00:21 PDT
+"ConsoleInterface.CaseInsensitive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+12/35 Testing: ConsoleInterface.HugeQuantity
+12/35 Test: ConsoleInterface.HugeQuantity
+Command: "" "--gtest_filter=ConsoleInterface.HugeQuantity"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.HugeQuantity" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.HugeQuantity" end time: Oct 06 00:21 PDT
+"ConsoleInterface.HugeQuantity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+13/35 Testing: ConsoleInterface.AddOneToCart
+13/35 Test: ConsoleInterface.AddOneToCart
+Command: "" "--gtest_filter=ConsoleInterface.AddOneToCart"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddOneToCart" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddOneToCart" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddOneToCart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+14/35 Testing: Database.BuyCart
+14/35 Test: Database.BuyCart
+Command: "" "--gtest_filter=Database.BuyCart"
+Directory: /hw2/amazon_tests
+"Database.BuyCart" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Database.BuyCart" end time: Oct 06 00:21 PDT
+"Database.BuyCart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+15/35 Testing: DatabaseReadback.ThreeBooks
+15/35 Test: DatabaseReadback.ThreeBooks
+Command: "" "--gtest_filter=DatabaseReadback.ThreeBooks"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.ThreeBooks" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.ThreeBooks" end time: Oct 06 00:21 PDT
+"DatabaseReadback.ThreeBooks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+16/35 Testing: DatabaseReadback.ThreeClothes
+16/35 Test: DatabaseReadback.ThreeClothes
+Command: "" "--gtest_filter=DatabaseReadback.ThreeClothes"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.ThreeClothes" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.ThreeClothes" end time: Oct 06 00:21 PDT
+"DatabaseReadback.ThreeClothes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+17/35 Testing: DatabaseReadback.ThreeMovies
+17/35 Test: DatabaseReadback.ThreeMovies
+Command: "" "--gtest_filter=DatabaseReadback.ThreeMovies"
+Directory: /hw2/amazon_tests
+"DatabaseReadback.ThreeMovies" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DatabaseReadback.ThreeMovies" end time: Oct 06 00:21 PDT
+"DatabaseReadback.ThreeMovies" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+18/35 Testing: ConsoleInterface.AddTwoItems
+18/35 Test: ConsoleInterface.AddTwoItems
+Command: "" "--gtest_filter=ConsoleInterface.AddTwoItems"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddTwoItems" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddTwoItems" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddTwoItems" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+19/35 Testing: ConsoleInterface.AddTwoIdenticalItems
+19/35 Test: ConsoleInterface.AddTwoIdenticalItems
+Command: "" "--gtest_filter=ConsoleInterface.AddTwoIdenticalItems"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddTwoIdenticalItems" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddTwoIdenticalItems" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddTwoIdenticalItems" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+20/35 Testing: Database.BuyCartTwoItems
+20/35 Test: Database.BuyCartTwoItems
+Command: "" "--gtest_filter=Database.BuyCartTwoItems"
+Directory: /hw2/amazon_tests
+"Database.BuyCartTwoItems" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Database.BuyCartTwoItems" end time: Oct 06 00:21 PDT
+"Database.BuyCartTwoItems" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+21/35 Testing: ConsoleInterface.OrMultipleHit
+21/35 Test: ConsoleInterface.OrMultipleHit
+Command: "" "--gtest_filter=ConsoleInterface.OrMultipleHit"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.OrMultipleHit" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.OrMultipleHit" end time: Oct 06 00:21 PDT
+"ConsoleInterface.OrMultipleHit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+22/35 Testing: ConsoleInterface.AndMultipleHit
+22/35 Test: ConsoleInterface.AndMultipleHit
+Command: "" "--gtest_filter=ConsoleInterface.AndMultipleHit"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AndMultipleHit" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AndMultipleHit" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AndMultipleHit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+23/35 Testing: ConsoleInterface.AddToTwoUsersCarts
+23/35 Test: ConsoleInterface.AddToTwoUsersCarts
+Command: "" "--gtest_filter=ConsoleInterface.AddToTwoUsersCarts"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddToTwoUsersCarts" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddToTwoUsersCarts" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddToTwoUsersCarts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+24/35 Testing: ConsoleInterface.AddSameProductTwoUsersCarts
+24/35 Test: ConsoleInterface.AddSameProductTwoUsersCarts
+Command: "" "--gtest_filter=ConsoleInterface.AddSameProductTwoUsersCarts"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddSameProductTwoUsersCarts" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddSameProductTwoUsersCarts" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddSameProductTwoUsersCarts" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+25/35 Testing: ConsoleInterface.AddTwoProductsTwoUsers
+25/35 Test: ConsoleInterface.AddTwoProductsTwoUsers
+Command: "" "--gtest_filter=ConsoleInterface.AddTwoProductsTwoUsers"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddTwoProductsTwoUsers" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddTwoProductsTwoUsers" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddTwoProductsTwoUsers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+26/35 Testing: Database.BuyTwoProductsTwoUsers
+26/35 Test: Database.BuyTwoProductsTwoUsers
+Command: "" "--gtest_filter=Database.BuyTwoProductsTwoUsers"
+Directory: /hw2/amazon_tests
+"Database.BuyTwoProductsTwoUsers" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Database.BuyTwoProductsTwoUsers" end time: Oct 06 00:21 PDT
+"Database.BuyTwoProductsTwoUsers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+27/35 Testing: ConsoleInterface.BuyCartInsufficientFunds
+27/35 Test: ConsoleInterface.BuyCartInsufficientFunds
+Command: "" "--gtest_filter=ConsoleInterface.BuyCartInsufficientFunds"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.BuyCartInsufficientFunds" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.BuyCartInsufficientFunds" end time: Oct 06 00:21 PDT
+"ConsoleInterface.BuyCartInsufficientFunds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+28/35 Testing: Database.BuyCartInsufficientFunds
+28/35 Test: Database.BuyCartInsufficientFunds
+Command: "" "--gtest_filter=Database.BuyCartInsufficientFunds"
+Directory: /hw2/amazon_tests
+"Database.BuyCartInsufficientFunds" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Database.BuyCartInsufficientFunds" end time: Oct 06 00:21 PDT
+"Database.BuyCartInsufficientFunds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+29/35 Testing: ConsoleInterface.AddItemToMultipleUsers
+29/35 Test: ConsoleInterface.AddItemToMultipleUsers
+Command: "" "--gtest_filter=ConsoleInterface.AddItemToMultipleUsers"
+Directory: /hw2/amazon_tests
+"ConsoleInterface.AddItemToMultipleUsers" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleInterface.AddItemToMultipleUsers" end time: Oct 06 00:21 PDT
+"ConsoleInterface.AddItemToMultipleUsers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+30/35 Testing: Database.BuySingleStockItemMultipleUsers
+30/35 Test: Database.BuySingleStockItemMultipleUsers
+Command: "" "--gtest_filter=Database.BuySingleStockItemMultipleUsers"
+Directory: /hw2/amazon_tests
+"Database.BuySingleStockItemMultipleUsers" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Database.BuySingleStockItemMultipleUsers" end time: Oct 06 00:21 PDT
+"Database.BuySingleStockItemMultipleUsers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+31/35 Testing: ConsoleErrors.ViewCartUnknownUser
+31/35 Test: ConsoleErrors.ViewCartUnknownUser
+Command: "" "--gtest_filter=ConsoleErrors.ViewCartUnknownUser"
+Directory: /hw2/amazon_tests
+"ConsoleErrors.ViewCartUnknownUser" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleErrors.ViewCartUnknownUser" end time: Oct 06 00:21 PDT
+"ConsoleErrors.ViewCartUnknownUser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+32/35 Testing: ConsoleErrors.BuyCartUnknownUser
+32/35 Test: ConsoleErrors.BuyCartUnknownUser
+Command: "" "--gtest_filter=ConsoleErrors.BuyCartUnknownUser"
+Directory: /hw2/amazon_tests
+"ConsoleErrors.BuyCartUnknownUser" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleErrors.BuyCartUnknownUser" end time: Oct 06 00:21 PDT
+"ConsoleErrors.BuyCartUnknownUser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+33/35 Testing: ConsoleErrors.AddInvalidHitToCart
+33/35 Test: ConsoleErrors.AddInvalidHitToCart
+Command: "" "--gtest_filter=ConsoleErrors.AddInvalidHitToCart"
+Directory: /hw2/amazon_tests
+"ConsoleErrors.AddInvalidHitToCart" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ConsoleErrors.AddInvalidHitToCart" end time: Oct 06 00:21 PDT
+"ConsoleErrors.AddInvalidHitToCart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+34/35 Testing: AmazonStress.Buy10000Products
+34/35 Test: AmazonStress.Buy10000Products
+Command: "" "--gtest_filter=AmazonStress.Buy10000Products"
+Directory: /hw2/amazon_tests
+"AmazonStress.Buy10000Products" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AmazonStress.Buy10000Products" end time: Oct 06 00:21 PDT
+"AmazonStress.Buy10000Products" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: /hw2/amazon_tests/amazon_tests
+35/35 Testing: AmazonStress.AndSearch10000Products
+35/35 Test: AmazonStress.AndSearch10000Products
+Command: "" "--gtest_filter=AmazonStress.AndSearch10000Products"
+Directory: /hw2/amazon_tests
+"AmazonStress.AndSearch10000Products" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AmazonStress.AndSearch10000Products" end time: Oct 06 00:21 PDT
+"AmazonStress.AndSearch10000Products" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 06 00:21 PDT

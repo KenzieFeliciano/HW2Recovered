@@ -1,4 +1,4 @@
-# Install script for directory: /work/csci104/material/artifacts/hw2/grading/amazon/testing_utils/libperf
+# Install script for directory: /hw2/testing_utils/libperf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
